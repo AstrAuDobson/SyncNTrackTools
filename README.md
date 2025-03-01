@@ -16,6 +16,7 @@ Guiding<br>
 
 <br>
 Pour utiliser Synscan Tools, vous devez lancer Synscan App en premier lieu.<br>
+
 ![](https://github.com/AstrAuDobson/SynscanTools/blob/main/Capture_1.png)
 
 <H1> Vidéo de présentation</H1>
