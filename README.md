@@ -14,6 +14,9 @@ Easy Sync <br>
 Max Exposure Time<br>
 Guiding<br>
 
+
+https://github.com/AstrAuDobson/SynscanTools/blob/main/Capture_1.png
+
 <H1> Vidéo de présentation</H1>
 Pour tout savoir sur Synscan Tools, voici la vidéo de présentation: <br>
 https://youtu.be/eXEVuncUt-0
