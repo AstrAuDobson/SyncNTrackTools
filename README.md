@@ -7,6 +7,10 @@ Synscan tools Android : https://drive.google.com/file/d/1NSM-TZ_fgBzIsWDFkRFqOQe
 Synscan tools Windows : https://drive.google.com/file/d/1ZF1qTTYT8PHUnTx3ZnYKFkWsHDtZVoT6/view?usp=sharing  <br>
 AzGuiding ASCOM : à télécharger via le lien plus haut<br><br>
 
+Version BETA (correction bugs Guiding) : <br>
+Synscan Tools 1.2 BETA : https://drive.google.com/file/d/1WjV_2StSnay-VE3wirGSIVlwJVNVEUcR/view?usp=drive_link <br><br>  
+
+
 <b>Fonctions de Synscan Tools :</b><br>
 Sideral Tracking amélioré<br> 
 Drift Control<br>
