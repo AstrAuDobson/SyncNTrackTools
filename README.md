@@ -3,7 +3,7 @@ Sync n' Track Tools est une application windows/android qui fonctionne avec Syns
 <br>
 
 Liens de téléchargement: <br>
-Android :    <br>
+Android :  https://drive.google.com/file/d/15K0xw5Of7xcMkqw4eimr2eEqAvC8SK7l/view?usp=sharing  <br>
 Windows :  https://drive.google.com/file/d/1m8Sic2TbWjfua_Bcw7un-S2K8DfJFEpS/view?usp=sharing <br>
 AzGuiding ASCOM : à télécharger via le lien plus haut<br><br>
 
