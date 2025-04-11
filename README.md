@@ -3,8 +3,8 @@ Sync n' Track Tools est une application windows/android qui fonctionne avec Syns
 <br>
 
 Liens de téléchargement: <br>
-Synscan tools Android :    <br>
-Synscan tools Windows :   <br>
+Android :    <br>
+Windows :   <br>
 AzGuiding ASCOM : à télécharger via le lien plus haut<br><br>
 
 
@@ -21,5 +21,5 @@ Pour utiliser Sync n' Track Tools, vous devez lancer Synscan App en premier lieu
 ![](https://github.com/AstrAuDobson/SynscanTools/blob/main/Capture_1.png)
 
 <H1> Vidéo de présentation</H1>
-Pour tout savoir sur Synscan Tools, voici la vidéo de présentation: <br>
+Pour tout savoir sur Sync n' Track Tools, voici la vidéo de présentation: <br>
 https://youtu.be/eXEVuncUt-0
