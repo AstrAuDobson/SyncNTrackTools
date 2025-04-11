@@ -1,17 +1,14 @@
-<H1> Synscan Tools </H1>
-Synscan Tools est une application windows/android qui fonctionne avec Synscan app et vous offre des fonctionnalités supplémentaires : <br>
+<H1> Sync n' Track Tools </H1>
+Sync n' Track Tools est une application windows/android qui fonctionne avec Synscan app et vous offre des fonctionnalités supplémentaires : <br>
 <br>
 
 Liens de téléchargement: <br>
-Synscan tools Android : https://drive.google.com/file/d/1NSM-TZ_fgBzIsWDFkRFqOQespLAb2DM_/view?usp=sharing   <br>
-Synscan tools Windows : https://drive.google.com/file/d/1ZF1qTTYT8PHUnTx3ZnYKFkWsHDtZVoT6/view?usp=sharing  <br>
+Synscan tools Android :    <br>
+Synscan tools Windows :   <br>
 AzGuiding ASCOM : à télécharger via le lien plus haut<br><br>
 
-Version BETA (correction bugs Guiding) : <br>
-Synscan Tools 1.2 BETA : https://drive.google.com/file/d/1WjV_2StSnay-VE3wirGSIVlwJVNVEUcR/view?usp=drive_link <br><br>  
 
-
-<b>Fonctions de Synscan Tools :</b><br>
+<b>Fonctions de Sync n' Track Tools :</b><br>
 Sideral Tracking amélioré<br> 
 Drift Control<br>
 Easy Sync <br>
@@ -19,7 +16,7 @@ Max Exposure Time<br>
 Guiding<br>
 
 <br>
-Pour utiliser Synscan Tools, vous devez lancer Synscan App en premier lieu.<br>
+Pour utiliser Sync n' Track Tools, vous devez lancer Synscan App en premier lieu.<br>
 
 ![](https://github.com/AstrAuDobson/SynscanTools/blob/main/Capture_1.png)
 
