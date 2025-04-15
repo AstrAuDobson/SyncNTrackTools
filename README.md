@@ -6,7 +6,7 @@ Liens de téléchargement: <br>
 Android :  https://drive.google.com/file/d/15K0xw5Of7xcMkqw4eimr2eEqAvC8SK7l/view?usp=sharing  <br>
 Windows :  https://drive.google.com/file/d/1m8Sic2TbWjfua_Bcw7un-S2K8DfJFEpS/view?usp=sharing <br>
 AzGuiding ASCOM : à télécharger via le lien plus haut<br><br>
-
+ATTENTION : Sync n' Track Tools ne fonctionne qu'avec Synscan App v 1.19 : https://drive.google.com/file/d/1OVWsUiGyDYDK3bV0rbMJorXmJyG1-A4j/view?usp=sharing <br>
 
 <b>Fonctions de Sync n' Track Tools :</b><br>
 Sideral Tracking amélioré<br> 
