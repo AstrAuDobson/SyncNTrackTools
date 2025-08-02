@@ -4,8 +4,8 @@ Sync n' Track Tools est une application windows/android qui fonctionne avec Syns
 
 
 Liens de téléchargement:  <br>
-Android : https://drive.google.com/file/d/12BsWRbzt-r7bdB6WiyVUhoop01ygOplD/view?usp=sharing   <br>
-Windows : https://drive.google.com/file/d/1eMoK5dlhU_m_67PWEv5YytfUwMFbRLZA/view?usp=sharing  <br>
+Android :  https://drive.google.com/file/d/1eMoK5dlhU_m_67PWEv5YytfUwMFbRLZA/view?usp=sharing       <br>
+Windows :   https://drive.google.com/file/d/12BsWRbzt-r7bdB6WiyVUhoop01ygOplD/view?usp=sharing<br>
 
 
 Liens de téléchargement: (ancienne version) <br>
