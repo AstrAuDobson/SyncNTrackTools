@@ -24,7 +24,7 @@ Guiding<br>
 <br>
 Pour utiliser Sync n' Track Tools, vous devez lancer Synscan App en premier lieu.<br>
 
-![](https://github.com/AstrAuDobson/SynscanTools/blob/main/Capture_SyncNTrackTools.png)
+![](https://github.com/AstrAuDobson/SynscanTools/blob/main/Capture.png)
 
 <H1> Vidéo de présentation</H1>
 Pour tout savoir sur Sync n' Track Tools, voici la vidéo de présentation: <br>
