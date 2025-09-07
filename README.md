@@ -27,4 +27,4 @@ Pour utiliser Sync n' Track Tools, vous devez lancer Synscan App en premier lieu
 
 <H1> Vidéo de présentation</H1>
 Pour tout savoir sur Sync n' Track Tools, voici la vidéo de présentation: <br>
-https://youtu.be/eXEVuncUt-0
+[https://youtu.be/eXEVuncUt-0](https://youtu.be/YXraMvIThGI)
