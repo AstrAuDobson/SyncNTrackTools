@@ -1,15 +1,16 @@
 <H1> Sync 'N' Track Tools </H1>
-Sync n' Track Tools est une application windows/android qui fonctionne avec Synscan app et vous offre des fonctionnalités supplémentaires : <br>
+Sync n' Track Tools est une application windows/android/mac qui fonctionne avec Synscan App et vous offre des fonctionnalités supplémentaires : <br>
 <br>
 
 
 Liens de téléchargement:  <br>
-Android :  https://drive.google.com/file/d/1eMoK5dlhU_m_67PWEv5YytfUwMFbRLZA/view?usp=sharing       <br>
-Windows :   https://drive.google.com/file/d/1_aZkkgJZL3pdDmEQykDN36exiWHz2KdE/view?usp=sharing     <br>
-Mac : https://drive.google.com/file/d/1Ld8P2adRdzj4bgcbBGVDsPhuThU5jjGw/view?usp=sharing  <br>
+Android (v1.6):  https://drive.google.com/file/d/1eMoK5dlhU_m_67PWEv5YytfUwMFbRLZA/view?usp=sharing       <br>
+Windows (v2.0RC1):   https://drive.google.com/file/d/1_aZkkgJZL3pdDmEQykDN36exiWHz2KdE/view?usp=sharing     <br>)
+Mac (v2.0RC1): https://drive.google.com/file/d/1Ld8P2adRdzj4bgcbBGVDsPhuThU5jjGw/view?usp=sharing  <br>
 
+Pour profiter pleinement des versions Windows/Mac, vous devez téléecharger ASTAP et le configurer en fonction de votre setup : https://www.hnsky.org/astap.htm   <br>
 
-ATTENTION : si vous avez des difficulté de fonctionnement avec Synscan App 2.x vous pouvez utiliser Synscan App v 1.19 : https://drive.google.com/file/d/1OVWsUiGyDYDK3bV0rbMJorXmJyG1-A4j/view?usp=sharing <br>
+ATTENTION : si vous avez des difficultés de fonctionnement avec Synscan App 2.x vous pouvez utiliser Synscan App v 1.19 : https://drive.google.com/file/d/1OVWsUiGyDYDK3bV0rbMJorXmJyG1-A4j/view?usp=sharing <br>
 
 <b>Fonctions de Sync n' Track Tools :</b><br>
 NEW : Target Locker<br>
