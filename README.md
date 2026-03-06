@@ -5,8 +5,8 @@ Sync n' Track Tools est une application windows/android/mac qui fonctionne avec 
 
 Liens de téléchargement:  <br>
 Android (v1.6):  https://drive.google.com/file/d/1eMoK5dlhU_m_67PWEv5YytfUwMFbRLZA/view?usp=sharing       <br>
-Windows (v2.0RC1):   https://drive.google.com/file/d/1_aZkkgJZL3pdDmEQykDN36exiWHz2KdE/view?usp=sharing     <br>)
-Mac (v2.0RC1): https://drive.google.com/file/d/1Ld8P2adRdzj4bgcbBGVDsPhuThU5jjGw/view?usp=sharing  <br>
+Windows (v2.0.0):   https://drive.google.com/file/d/1WhS6-KNOjHW0vFxFqiY750EOeSH7cgyZ/view?usp=sharing    <br>)
+Mac (v2.0.0): https://drive.google.com/file/d/1dyex8JflVAzDFAT3v3RoERYBd5Kb2qer/view?usp=sharing <br>
 
 Pour profiter pleinement des versions Windows/Mac, vous devez téléecharger ASTAP et le configurer en fonction de votre setup : https://www.hnsky.org/astap.htm   <br>
 
